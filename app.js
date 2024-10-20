@@ -1,4 +1,4 @@
-import { america, dinners, discover, mastercard, visa } from "./tarjetas.js";
+import { america, dinners, discover, mastercard, visa } from "./tarjetas.js"; //importamos el modulo
 
 // let digitos = america("341236589478552");
 // let digitos = dinners ("30012345678998");
