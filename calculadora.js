@@ -74,7 +74,7 @@ export function matematicas() {
                    resultado = calculadora.division(a, b);
                    break;
            }
-           console.log(`El resultado es: ${resultado}`);
+           alert(`El resultado es: ${resultado}`);
        } catch (error) {
            console.error(error.message);
        }
